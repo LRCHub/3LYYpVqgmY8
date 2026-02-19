@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "チートデイ",
+  "base_artist": "乃木坂46",
+  "createdAt": "2026-02-19T07:23:12.860927Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "チートデイ",
+      "artist": "Nogizaka46",
+      "has_synced": true,
+      "path": "select/01_チートデイ_Nogizaka46.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "チートデイ",
+      "artist": "乃木坂46",
+      "has_synced": true,
+      "path": "select/02_チートデイ_乃木坂46.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "チートデイ",
+      "artist": "乃木坂46",
+      "has_synced": false,
+      "path": "select/pl_01_チートデイ_乃木坂46.txt"
+    }
+  ]
+}
